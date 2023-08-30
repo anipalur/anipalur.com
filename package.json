@@ -1,0 +1,27 @@
+{
+  "name": "anipalur.com",
+  "version": "1.0.0",
+  "description": "Source code for my personal blog.",
+  "scripts": {
+    "test": "hugo server --buildDrafts",
+    "build": "hugo --gc --minify"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anipalur/anipalur.com.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "anipalur",
+    "url": "https://github.com/anipalur"
+  },
+  "license": "(GPL-3.0-only OR CC-BY-NC-SA-4.0)",
+  "bugs": {
+    "url": "https://github.com/anipalur/anipalur.com/issues"
+  },
+  "homepage": "https://github.com/anipalur/anipalur.com#readme",
+  "devDependencies": {
+    "markdownlint": "^0.30.0",
+    "markdownlint-cli": "^0.35.0"
+  }
+}

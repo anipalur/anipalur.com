@@ -1,2 +1,3 @@
 # anipalur.com
-Files for my personal website.
+
+Source code for my personal blog.

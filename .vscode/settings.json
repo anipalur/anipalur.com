@@ -18,5 +18,5 @@
     "package-lock.json": true,
     "themes/**": true
   },
-  "yaml.format.proseWrap": "always",
+  "yaml.format.proseWrap": "preserve",
 }

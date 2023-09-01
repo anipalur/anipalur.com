@@ -7,13 +7,15 @@
   "files.eol": "\n",
   "files.insertFinalNewline": true,
   "files.readonlyInclude": {
-    "LICENSE": true,
+    "LICENSE-CODE": true,
+    "LICENSE-CONTENT": true,
     "node_modules/**": true,
     "package-lock.json": true,
     "themes/**": true
   },
   "search.exclude": {
-    "LICENSE": true,
+    "LICENSE-CODE": true,
+    "LICENSE-CONTENT": true,
     "node_modules/**": true,
     "package-lock.json": true,
     "themes/**": true

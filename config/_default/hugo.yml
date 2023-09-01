@@ -1,0 +1,25 @@
+---
+# Blog information
+author:
+  name: Anitej Palur
+baseURL: https://anipalur.com/
+title: Anitej Palur
+copyright: >-
+  This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International
+  (CC BY-SA 4.0) License.
+languageCode: en-GB
+defaultContentLanguage: en
+timeZone: Asia/Kuala_Lumpur
+
+# Blog configuration
+theme: hugo-theme-stack
+refLinksNotFoundURL: /404
+enableEmoji: true
+enableGitInfo: true
+enableRobotsTXT: true
+
+# Development configuration
+build:
+  noJSConfigInAssets: true
+newContentEditor: code
+watch: true

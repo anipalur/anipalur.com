@@ -1,0 +1,7 @@
+---
+page:
+  post: post/:slugorfilename/
+  page: /:slugorfilename/
+section:
+  page: /
+  post: post/

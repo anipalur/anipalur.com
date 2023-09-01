@@ -1,0 +1,67 @@
+---
+toggleMenu:
+  other: Toggle Menu
+  
+darkMode:
+  other: Appearance
+
+list:
+  page:
+    one: "{{ .Count }} page"
+    other: "{{ .Count }} pages"
+  section:
+    other: Section
+  subsection:
+    one: Subsection
+    other: Subsections
+
+article:
+  back:
+    other: Back
+  tableOfContents:
+    other: Table of Contents
+  relatedContent:
+    other: Related Content
+  lastUpdatedOn:
+    other: Last updated on
+  readingTime:
+    one: "{{ .Count }} minute read"
+    other: "{{ .Count }} minutes read"
+
+notFound:
+  title:
+    other: 404 - Page Not Found
+  subtitle:
+    other: |-
+      We couldn't find the page you were looking for!  
+      Try [searching](/search "Search all posts on my blog.") for it instead.
+
+widget:
+  archives:
+    title:
+      other: Archives
+    more:
+      other: More
+  tagCloud:
+    title:
+      other: Tags
+  categoriesCloud:
+    title:
+      other: Categories
+
+search:
+  title:
+    other: Search
+  placeholder:
+    other: Search posts...
+  resultTitle:
+    other: "#PAGES_COUNT results (#TIME_SECONDS seconds)"
+
+footer:
+  builtWith:
+    other: >-
+      Built with [Hugo](https://gohugo.io "Learn more about Hugo.")
+      using the [Stack](https://github.com/CaiJimmy/hugo-theme-stack "Learn more about the Stack theme.") theme
+      by [Jimmy](https://jimmycai.com "Learn more about Jimmy.").
+  designedBy:
+    other: ""

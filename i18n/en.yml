@@ -53,7 +53,7 @@ search:
   title:
     other: Search
   placeholder:
-    other: Search posts...
+    other: Use '/' to search all posts
   resultTitle:
     other: "#PAGES_COUNT results (#TIME_SECONDS seconds)"
 

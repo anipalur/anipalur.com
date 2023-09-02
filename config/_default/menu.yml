@@ -1,0 +1,26 @@
+---
+social:
+  - identifier: linkedin
+    name: LinkedIn
+    url: https://www.linkedin.com/in/anipalur
+    weight: 1
+    params:
+      icon: brand-linkedin
+  - identifier: github
+    name: GitHub
+    url: https://github.com/anipalur
+    weight: 2
+    params:
+      icon: brand-github
+  - identifier: email
+    name: Email
+    url: mailto:ani@anipalur.com
+    weight: 3
+    params:
+      icon: mail
+  - identifier: rss
+    name: RSS Feed
+    url: /index.xml
+    weight: 4
+    params:
+      icon: rss

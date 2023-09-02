@@ -1,0 +1,48 @@
+---
+# Blog information
+title: Anitej Palur
+description: Anitej Palur's Personal Blog
+
+sidebar:
+  emoji: 🩺
+  subtitle: First-year medical student and aspiring neurosurgeon
+  avatar:
+    src: img/avatar.png
+    local: true
+
+article:
+  license:
+    enabled: true
+    default: >-
+      Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0 "Learn more
+      about the CC BY-SA 4.0 License.").
+  toc: true
+  math: false
+
+widgets:
+  homepage:
+    - type: search
+    - type: archives
+      params:
+        limit: 10
+    - type: categories
+      params:
+        limit: 10
+    - type: tag-cloud
+      params:
+        limit: 10
+  page:
+    - type: toc
+
+footer:
+  since: 2023
+  customText: >-
+    [Home](/ "Visit the homepage.") &sdot; 
+    [About](/about "Learn more about me.") &sdot; 
+    [Legal](/legal "View legal information about this blog.") &sdot; 
+    [Source Code](https://github.com/anipalur/anipalur.com "Visit the homepage.") &sdot; 
+    [Sitemap](/sitemap.xml "View the sitemap of this blog.")
+
+# Blog configuration
+opengraph:
+  card: summary

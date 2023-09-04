@@ -1,0 +1,2 @@
+{{ $style := resources.Get "css/default-skin.css" | resources.ExecuteAsTemplate "css/default-skin.css" . | resources.ToCSS }}
+<link rel="stylesheet" href="{{ $style.Permalink }}">

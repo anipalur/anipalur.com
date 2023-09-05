@@ -10,7 +10,7 @@
 
   {{- $searchPage := index $query 0 -}}
   <form
-    action="{{ $searchPage.RelPermalink }}" 
+    action="{{ $searchPage.RelPermalink }}"
     class="search-form widget"
     novalidate="novalidate"
     {{ with .OutputFormats.Get "json" -}}data-json="{{ .Permalink }}"{{- end }}>
@@ -19,7 +19,7 @@
       <input name="keyword" id="search-input" required placeholder="{{ T `search.placeholder` }}" />
 
       <button title="{{ T `search.title` }}">
-          {{ partial "helper/icon" "search" }}
+        {{ partial "helper/icon" "search" }}
       </button>
     </p>
   </form>

@@ -1,12 +1,7 @@
 {{- $query := first 1 (where .Context.Site.Pages "Layout" "==" "search") -}}
 {{- if $query -}}
-  <script>
-    document.addEventListener("keydown", event => {
-      if (event.key !== "/") return;
-      event.preventDefault();
-      document.getElementById("search-input").focus();
-    });
-  </script>
+  {{ $searchShortcut := resources.Get "js/search-shortcut.js" }}
+  <script src="{{ $searchShortcut.RelPermalink }}" defer></script>
 
   {{- $searchPage := index $query 0 -}}
   <form

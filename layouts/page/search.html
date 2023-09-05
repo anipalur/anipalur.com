@@ -4,13 +4,8 @@
     <link rel="preload" href="{{ .RelPermalink }}" as="fetch" crossorigin="anonymous">
   {{- end -}}
 
-  <script>
-    document.addEventListener("keydown", event => {
-      if (event.key !== "/") return;
-      event.preventDefault();
-      document.getElementById("search-input").focus();
-    });
-  </script>
+  {{ $searchShortcut := resources.Get "js/search-shortcut.js" }}
+  <script src="{{ $searchShortcut.RelPermalink }}" defer></script>
 {{ end }}
 {{ define "main" }}
 <form action="{{ .RelPermalink }}" class="search-form"{{ with .OutputFormats.Get "json" -}} data-json="{{ .RelPermalink }}"{{- end }}>

@@ -1,0 +1,20 @@
+{{ if (.Context.Scratch.Get "TOCEnabled") }}
+  <section class="widget archives">
+    <div class="widget-icon">
+      {{ partial "helper/icon" "list-numbers" }}
+    </div>
+    <div>
+      <h2 class="widget-title section-title">
+        {{ T "article.tableOfContents" }}
+
+        <button tabindex="-1">
+          <a href="#top" title="Back to Top">{{ partial "helper/icon" "square-arrow-up" }}</a>
+        </button>
+      </h2>
+    </div>
+
+    <div class="widget--toc">
+      {{ .Context.TableOfContents }}
+    </div>
+  </section>
+{{ end }} 

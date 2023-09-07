@@ -1,6 +1,6 @@
 {{ define "body-class" }}template-search{{ end }}
 {{ define "head" }}
-  {{- with .OutputFormats.Get "json" -}} 
+  {{- with .OutputFormats.Get "json" -}}
     <link rel="preload" href="{{ .RelPermalink }}" as="fetch" crossorigin="anonymous">
   {{- end -}}
 
@@ -8,7 +8,11 @@
   <script src="{{ $searchShortcut.RelPermalink }}" defer></script>
 {{ end }}
 {{ define "main" }}
-<form action="{{ .RelPermalink }}" class="search-form"{{ with .OutputFormats.Get "json" -}} data-json="{{ .RelPermalink }}"{{- end }}>
+<form
+  action="{{ .RelPermalink }}"
+  class="search-form"
+  role="search"
+  {{ with .OutputFormats.Get "json" -}} data-json="{{ .RelPermalink }}"{{- end }}>
   <p>
     <label>{{ T "search.title" }}</label>
     <input name="keyword" id="search-input" placeholder="{{ T `search.placeholder` }}" />

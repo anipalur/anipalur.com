@@ -33,7 +33,7 @@ notFound:
     other: 404 - Page Not Found
   subtitle:
     other: |-
-      We couldn't find the page you were looking for!  
+      The page you were looking for could not be found!  
       Try [searching](/search "Search all posts on my blog.") for it instead.
 
 widget:

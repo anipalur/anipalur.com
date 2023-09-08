@@ -8,7 +8,7 @@
       {{ partial "helper/icon" "archives" }}
     </div>
     <h2 class="widget-title section-title">
-      <a href="{{ $archivesPage.RelPermalink }}" title="Browse through my blog's archive.">{{ T "widget.archives.title" }}</a>
+      <a href="{{ $archivesPage.RelPermalink }}" title="Browse through my blog's archives.">{{ T "widget.archives.title" }}</a>
     </h2>
 
     {{ $pages := where $context.Site.RegularPages "Type" "in" $context.Site.Params.mainSections }}

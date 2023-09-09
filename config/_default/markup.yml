@@ -6,3 +6,7 @@ goldmark:
 highlight:
   lineNos: true
   noClasses: false
+
+tableOfContents:
+  ordered: true
+  startLevel: 2

@@ -4,12 +4,12 @@ author:
   name: Anitej Palur
 baseURL: https://anipalur.com/
 title: Anitej Palur
+defaultContentLanguage: en
+languageCode: en-GB
+timeZone: Asia/Kuala_Lumpur
 copyright: >-
   This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International
-  (CC BY-SA 4.0) License.
-languageCode: en-GB
-defaultContentLanguage: en
-timeZone: Asia/Kuala_Lumpur
+  (CC BY-SA 4.0) Licence.
 
 # Blog configuration
 theme: hugo-theme-stack

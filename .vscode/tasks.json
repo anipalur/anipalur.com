@@ -1,5 +1,5 @@
 {
-  // See https://go.microsoft.com/fwlink/?LinkId=733558 for documentation about the tasks.json format.
+  // See https://go.microsoft.com/fwlink/?LinkId=733558 for documentation on the tasks.json format.
   "version": "2.0.0",
   "type": "shell",
   "group": {
@@ -9,6 +9,7 @@
     "panel": "shared",
     "clear": true,
   },
+
   "tasks": [
     {
       "label": "Test Site",

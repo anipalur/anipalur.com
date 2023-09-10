@@ -39,9 +39,10 @@ footer:
   customText: >-
     [Home](/ "Visit the homepage.") &sdot; 
     [About](/about "Learn more about me.") &sdot; 
-    [Legal](/legal "View legal information about this blog.") &sdot; 
     [Source Code](https://github.com/anipalur/anipalur.com "Visit the homepage.") &sdot; 
-    [Sitemap](/sitemap.xml "View the sitemap of this blog.")
+    [Sitemap](/sitemap.xml "View the sitemap of this blog.") &sdot; 
+    [Disclaimer](/disclaimer "Learn more about the limitations of content on my blog.") &sdot; 
+    [Privacy Policy](/privacy "Learn more about how your information is used on my blog.")
 
 # Blog configuration
 opengraph:

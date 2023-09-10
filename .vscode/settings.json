@@ -3,7 +3,9 @@
   "editor.insertSpaces": true,
   "editor.tabSize": 2,
   "editor.wordWrap": "off",
+
   "explorer.excludeGitIgnore": true,
+
   "files.eol": "\n",
   "files.insertFinalNewline": true,
   "files.readonlyInclude": {
@@ -13,6 +15,7 @@
     "package-lock.json": true,
     "themes/**": true
   },
+
   "search.exclude": {
     "LICENSE-CODE": true,
     "LICENSE-CONTENT": true,
@@ -20,5 +23,30 @@
     "package-lock.json": true,
     "themes/**": true
   },
+
   "yaml.format.proseWrap": "preserve",
+
+  "cSpell.enableFiletypes": [
+    "css",
+    "git-commit",
+    "git-rebase",
+    "go",
+    "html",
+    "ignore",
+    "json",
+    "markdown",
+    "markdown-math",
+    "scss",
+    "yaml",
+    "yml"
+  ],
+  "cSpell.ignorePaths": [
+    "LICENSE-CODE",
+    "LICENSE-CONTENT",
+    "node_modules/**",
+    "package-lock.json",
+    "themes/**"
+  ],
+  "cSpell.language": "en-GB",
+  "cSpell.showAutocompleteSuggestions": true,
 }

@@ -1,12 +1,12 @@
 ---
-title: Archive
-description: Browse through my blog's archive.
-summary: Browse through my blog's archive.
+title: Archives
+description: Browse through my blog's archives.
+summary: Browse through my blog's archives.
 
 layout: archives
 menu:
   main:
-    name: Archive
+    name: Archives
     weight: 4
     params:
       icon: archives
@@ -17,5 +17,5 @@ keywords:
   - Anitej
   - Palur
   - Blog
-  - Archive
+  - Archives
 ---

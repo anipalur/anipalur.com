@@ -19,6 +19,9 @@ article:
   toc: true
   math: false
 
+dateFormat:
+  lastUpdated: Jan 02, 2006
+
 widgets:
   homepage:
     - type: search

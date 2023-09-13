@@ -3,8 +3,7 @@ disqus:
   disable: true
 
 googleAnalytics:
-  anonymizeIP: true
-  respectDoNotTrack: true
+  disable: true
 
 instagram:
   disable: true

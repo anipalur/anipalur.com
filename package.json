@@ -11,7 +11,16 @@
     "type": "git",
     "url": "git+https://github.com/anipalur/anipalur.com.git"
   },
-  "keywords": [],
+  "keywords": [
+    "blog",
+    "website",
+    "hugo",
+    "personal-blog",
+    "personal-website",
+    "personal-site",
+    "static-site",
+    "hugo-site"
+  ],
   "author": {
     "name": "anipalur",
     "email": "ani@anipalur.com",

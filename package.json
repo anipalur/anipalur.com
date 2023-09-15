@@ -4,7 +4,8 @@
   "description": "Source code for my personal blog.",
   "scripts": {
     "test": "hugo server --buildDrafts",
-    "build": "hugo --gc --minify"
+    "build": "hugo --gc --minify",
+    "is-linted": "npx markdownlint \"content/**/*.md\" \".github/*.md\" \"*.md\""
   },
   "repository": {
     "type": "git",

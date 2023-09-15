@@ -128,7 +128,6 @@
 
 /* Menu style */
 .menu {
-  padding-left: 0;
   list-style: none;
   flex-direction: column;
   overflow-y: auto;
@@ -140,7 +139,7 @@
   display: none;
   margin: 0 calc(var(--container-padding) * -1);
 
-  padding: 30px 30px;
+  padding: 30px;
   @include respond(xl) {
     padding: 15px 0;
   }

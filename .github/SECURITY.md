@@ -22,7 +22,7 @@ If you are unsure, email [ani@anipalur.com].
 
 ## Reporting a Vulnerability
 
-> **Warning**  
+> [!WARNING]  
 > **Do not report a vulnerability through an issue, pull request or anywhere else in public.**
 
 Instead, please email [ani@anipalur.com]. Ensure your report is fully contained within the body of the email and not behind a link or an attachment.
@@ -38,7 +38,7 @@ I will first acknowledge your report within a few days
 before following up with more information or a request for more guidance.
 I may not be available to resolve the vulnerability quickly due to time zone differences and other commitments, so please be patient.
 If you do not receive a response within a week, please contact me using a different contact method.
-See the [contact](https://anipalur.com/contact "Learn how to contact me.") page for more.
+See the [Contact](https://anipalur.com/contact "Learn how to contact me.") page for more.
 
 Thank you!
 

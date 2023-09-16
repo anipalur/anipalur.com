@@ -1,26 +1,25 @@
 # [anipalur.com][blog-link] <br /> [![hugo-badge]][hugo-link] [![status-badge]][blog-link] [![codefactor-badge]][codefactor-link]
 
-This repository hosts the source code for my personal blog, <https://anipalur.com> -
-a fast, secure and flexible static site built with [Hugo][hugo-link]
-and hosted by [Cloudflare Pages](https://pages.cloudflare.com "Learn more about Cloudflare Pages.").
+This repository hosts the source code for my blog, [anipalur.com][blog-link] - a fast, secure and flexible static site
+built with [Hugo][hugo-link] and hosted by [Cloudflare Pages](https://pages.cloudflare.com "Learn more about Cloudflare Pages.").
 
 ## Features
 
-- Support for dark mode
+- Supports dark mode
 - Fully responsive layout viewable on all devices
 - Fully keyboard-accessible
 - Uses [Tabler Icons](https://tabler-icons.io "Learn more about Tabler Icons.") for buttons
 - Includes native search
 - Built with pure JavaScript and CSS
-- Support for tags, categories and subsections
-- Automatic RSS feed, sitemap and robots.txt generation
-- [PhotoSwipe](https://photoswipe.com "Learn more about PhotoSwipe.") support for image galleries and lightboxes
-- Automatic table of contents and related posts generation
+- Supports tags, categories and subsections
+- Automatically generates a RSS feed, sitemap and robots.txt
+- Supports [PhotoSwipe](https://photoswipe.com "Learn more about PhotoSwipe.") image galleries and lightboxes
+- Automatically generates a table of contents and related posts
 
 ## Adapting this Project
 
-Feel free to fork this project and customise it for your own use.
-See the [Quickstart](#quickstart "View the Quickstart section.") section for steps on getting started.
+Feel free to fork this project and customise it for your use.
+See the [Quickstart guide](#quickstart "View the Quickstart guide.") for steps on getting started.
 
 If you have any questions, see [SUPPORT.md](/.github/SUPPORT.md "View the SUPPORT.md file.")
 or [contact me](https://anipalur.com/contact "Learn how to contact me.").
@@ -40,7 +39,7 @@ Follow these steps to get started with running this project locally.
   - [Hugo for Windows](https://gohugo.io/installation/windows "Install Hugo for Windows.")
   - [Hugo for macOS](https://gohugo.io/installation/macOS "Install Hugo for macOS.")
   - [Hugo for Linux](https://gohugo.io/installation/linux "Install Hugo for Linux.")
-- Node.js (optional[**](#hugo-version)):
+- Node.js (optional[**](#node-js)):
   - [Node.js for Windows](https://nodejs.org "Download Node.js for Windows.")
   - [Node.js for macOS](https://nodejs.org "Download Node.js for macOS.")
   - [Node.js for Linux](https://nodejs.org/en/download/package-manager "Download Node.js for Linux.")
@@ -94,6 +93,8 @@ type 'task', press space and select `Test Site`.
     alt="The Quick Open window in Visual Studio Code with 'task' as the search query and a list of tasks as the result." />
 </div>
 
+<br />
+
 This will start Hugo's built-in development server.
 Visit the URL shown in the CLI (usually <http://localhost:1313>) to view the blog.  
 To stop the development server, use <kbd>CTRL</kbd> + <kbd>C</kbd>.
@@ -116,14 +117,18 @@ type 'task', press space and select `Build Site`.
     alt="The Quick Open window in Visual Studio Code with 'task' as the search query and a list of tasks as the result." />
 </div>
 
+<br />
+
 This will publish all static files in the `public` directory.  
 These files can then be used in a simple hosting environment.
 See [Hugo's documentation on hosting and deployment](https://gohugo.io/hosting-and-deployment "View Hugo's documentation on hosting and deployment.") for more.
 
 ## Contributing
 
-Issues and pull requests are welcome! See [CONTRIBUTING.md][contributing-link] to get started.  
-Please note that I only accept contributions to source code, not content.
+Issues and pull requests are welcome! See [CONTRIBUTING.md][contributing-link] to get started.
+
+> [!IMPORTANT]  
+> I only accept contributions to source code, not content.
 
 ## Attribution
 
@@ -158,15 +163,15 @@ Except otherwise noted, all content (both text and images) on this blog is licen
 See [LICENSE-CONTENT](/LICENSE-CONTENT "View the LICENSE-CONTENT file.")
 and the [Copyright](https://anipalur.com/copyright "View the Copyright page.") page for more information.
 
-[blog-link]: https://anipalur.com "Visit my personal blog."
+[blog-link]: https://anipalur.com "Visit my blog."
 [stack-link]: https://github.com/CaiJimmy/hugo-theme-stack "Learn more about the Stack theme."
 [jimmy-link]: https://jimmycai.com "Learn more about Jimmy Cai."
 [contributing-link]: /CONTRIBUTING.md "View the CONTRIBUTING.md file."
 
-[hugo-badge]: https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FCaiJimmy%2Fhugo-theme-stack%2Fmaster%2Ftheme.toml&query=%24.min_version&prefix=v&style=flat&logo=hugo&logoColor=FF4088&label=Hugo&color=FF4088
+[hugo-badge]: https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2FCaiJimmy%2Fhugo-theme-stack%2Fmaster%2Ftheme.toml&query=%24.min_version&prefix=v&&logo=hugo&logoColor=FF4088&label=Hugo&color=FF4088
 [hugo-link]: https://gohugo.io "Learn more about Hugo."
 
-[codefactor-badge]: https://img.shields.io/codefactor/grade/github/anipalur/anipalur.com?style=flat&logo=codefactor&logoColor=F44A6A&label=Code%20Quality
+[codefactor-badge]: https://img.shields.io/codefactor/grade/github/anipalur/anipalur.com?&logo=codefactor&logoColor=F44A6A&label=Code%20Quality
 [codefactor-link]: https://www.codefactor.io/repository/github/anipalur/anipalur.com "View this project's code quality grade."
 
-[status-badge]: https://img.shields.io/website?up_message=Online&up_color=1F883D&down_message=Offline&down_color=DA3633&url=https%3A%2F%2Fanipalur.com&style=flat&label=Status
+[status-badge]: https://img.shields.io/website?up_message=Online&up_color=4CC71E&down_message=Offline&down_color=CF222E&url=https%3A%2F%2Fanipalur.com&&label=Status

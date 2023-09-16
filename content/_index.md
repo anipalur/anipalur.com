@@ -1,7 +1,7 @@
 ---
 title: Home
-description: Anitej Palur's Personal Blog on Medicine and Neuroscience
-summary: Anitej Palur's Personal Blog on Medicine and Neuroscience
+description: Anitej Palur's Blog on Medicine and Neuroscience
+summary: Anitej Palur's Blog on Medicine and Neuroscience
 
 menu:
   main:

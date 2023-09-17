@@ -150,7 +150,7 @@ Issues and pull requests are welcome! See [CONTRIBUTING.md][contributing-link] t
 The source code for this blog is licensed under a [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html "Learn more about the GNU GPLv3 License.") License.
 
 See [LICENSE-CODE](/LICENSE-CODE "View the LICENSE-CODE file.")
-and the [Licence](https://anipalur.com/license "View the Licence page.") page for more information.
+and the [Licence](https://anipalur.com/license "Learn more about how the source code for my blog is licensed.") page for more information.
 
 ### Content
 
@@ -161,7 +161,7 @@ Except otherwise noted, all content (both text and images) on this blog is licen
 [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0 "Learn more about the CC BY-SA 4.0 Licence.") Licence.
 
 See [LICENSE-CONTENT](/LICENSE-CONTENT "View the LICENSE-CONTENT file.")
-and the [Copyright](https://anipalur.com/copyright "View the Copyright page.") page for more information.
+and the [Copyright](https://anipalur.com/copyright "Learn more about how content on my blog is copyrighted.") page for more information.
 
 [blog-link]: https://anipalur.com "Visit my blog."
 [stack-link]: https://github.com/CaiJimmy/hugo-theme-stack "Learn more about the Stack theme."

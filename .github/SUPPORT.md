@@ -47,11 +47,11 @@ Make sure to follow these general guidelines when using GitHub Issues:
 - **Consider whether your issue fits the scope of this project.**   
   Issues that concern the majority of users will be of priority!
 
-## Reporting Bugs
+### Reporting Bugs
 
 If you have found a bug, [file a bug report][file-bug-report] through an issue.
 
-## Feature or Enhancement Requests
+### Feature or Enhancement Requests
 
 If you have an idea for a new feature, [request it][request-new-feature] through an issue.  
 Likewise, if you have an idea for an enhancement to an existing feature, [request it][request-enhancement] through an issue.

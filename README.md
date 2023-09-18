@@ -99,7 +99,7 @@ This will start Hugo's built-in development server.
 Visit the URL shown in the CLI (usually <http://localhost:1313>) to view the blog.  
 To stop the development server, use <kbd>CTRL</kbd> + <kbd>C</kbd>.
 
-## Publishing
+### Publishing
 
 Publish the blog using the following command.
 

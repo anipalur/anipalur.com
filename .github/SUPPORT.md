@@ -28,7 +28,7 @@ Please do the following when asking for help.
 ## Using GitHub Issues
 
 [GitHub Issues](https://github.com/anipalur/anipalur.com/issues "Visit the GitHub Issues tab.") is the preferred channel
-for bug reports and feature or enhancement requests.  
+for bug reports and feature and enhancement requests.  
 To learn more about creating issues, check out [GitHub's quickstart guide](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart#opening-a-blank-issue "Learn more about GitHub issues.").
 
 Make sure to follow these general guidelines when using GitHub Issues:
@@ -51,7 +51,7 @@ Make sure to follow these general guidelines when using GitHub Issues:
 
 If you have found a bug, [file a bug report][file-bug-report] through an issue.
 
-### Feature or Enhancement Requests
+### Feature and Enhancement Requests
 
 If you have an idea for a new feature, [request it][request-new-feature] through an issue.  
 Likewise, if you have an idea for an enhancement to an existing feature, [request it][request-enhancement] through an issue.

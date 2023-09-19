@@ -74,11 +74,7 @@
       .article-copyright,
       .article-lastmod {
         a {
-          color: var(--body-text-color);
-        }
-
-        a.link {
-          box-shadow: unset;
+          color: var(--card-text-color-tertiary);
         }
       }
     }

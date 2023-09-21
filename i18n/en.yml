@@ -23,7 +23,7 @@ article:
   relatedContent:
     other: Related Content
   lastUpdatedOn:
-    other: Last updated on
+    other: Last updated on [{{ .LastMod }}](https://github.com/anipalur/anipalur.com/commit/{{ .Hash }} "View the changes this update made on GitHub.").
   readingTime:
     one: "{{ .Count }} minute read"
     other: "{{ .Count }} minutes read"

@@ -11,16 +11,17 @@ sidebar:
     local: true
 
 article:
+  toc: true
   license:
     enabled: true
     default: >-
       Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0 "Learn more
       about the CC BY-SA 4.0 Licence.").
-  toc: true
   math: false
 
 dateFormat:
-  lastUpdated: Jan 02, 2006
+  published: January 02, 2006
+  lastUpdated: January 02, 2006
 
 widgets:
   homepage:

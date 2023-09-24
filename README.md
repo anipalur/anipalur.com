@@ -134,12 +134,12 @@ Issues and pull requests are welcome! See [CONTRIBUTING.md][contributing-link] t
 
 - This blog was built with [Hugo][hugo-link] using the [Stack][stack-link] theme by [Jimmy Cai][jimmy-link].  
   Portions of this theme have been modified to meet my needs.
-  These modifications are listed on the [Licence](https://anipalur.com/license/#list-of-modifications "View a list of modifications made to the Stack theme.") page.
+  These modifications can be viewed on this repository.
 - Thanks to [nayafia's CONTRIBUTING.md template](https://github.com/nayafia/contributing-template "View nayafia's contributing guide.")
   for inspiring this project's [CONTRIBUTING.md][contributing-link] file!
 - Thanks to [readme.so](https://readme.so "Visit readme.so!") for helping create this README.md file!
 
-## Licenses
+## Licences
 
 ### Source Code
 
@@ -150,7 +150,7 @@ Issues and pull requests are welcome! See [CONTRIBUTING.md][contributing-link] t
 The source code for this blog is licensed under a [GNU GPLv3](https://www.gnu.org/licenses/gpl-3.0.html "Learn more about the GNU GPLv3 License.") License.
 
 See [LICENSE-CODE](/LICENSE-CODE "View the LICENSE-CODE file.")
-and the [Licence](https://anipalur.com/license "Learn more about how the source code for my blog is licensed.") page for more information.
+and the [Licence](https://anipalur.com/licence "Learn more about how the source code for my blog is licensed.") page for more information.
 
 ### Content
 

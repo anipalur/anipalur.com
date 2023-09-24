@@ -21,7 +21,7 @@ keywords:
   - About
 ---
 
-## About This Blog
+## About this Blog
 
 Welcome to my blog on medicine and neuroscience!
 

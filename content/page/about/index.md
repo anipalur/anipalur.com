@@ -65,7 +65,7 @@ This blog was built using several open-source technologies, including:
 - [Stack](https://stack.jimmycai.com "Learn more about the Stack theme."), a card-style Hugo theme
   by [Jimmy Cai](https://jimmycai.com "Learn more about Jimmy Cai.")
 - [Cloudflare Pages](https://pages.cloudflare.com "Learn more about Cloudflare pages."), a fast platform to deploy static sites
-- [Tabler Icons](https://tabler-icons.io "Learn more about Tabler Icons."), a set of SVG icons
+- [Tabler Icons](https://tabler-icons.io "Learn more about Tabler Icons."), a set of SVG icons used for UI
 - [PhotoSwipe](https://photoswipe.com "Learn more about PhotoSwipe."), an image gallery and lightbox generator
 
 Feel free to examine the source code for this open-source blog on

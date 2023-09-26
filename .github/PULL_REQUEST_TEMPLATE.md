@@ -1,11 +1,11 @@
 <!--
-Firstly, thanks for taking the time to contribute to my blog!
+  Firstly, thanks for taking the time to contribute to my blog!
 
-Please go through all sections of this PR template before submitting.
-Make sure your PR is not a duplicate.
+  Please go through all sections of this PR template before submitting.
+  Make sure your PR is not a duplicate.
 
-Check CONTRIBUTING.md for more about contribution guidelines.
-Need help? See SUPPORT.md for more information.
+  Check CONTRIBUTING.md for more about contribution guidelines.
+  Need help? See SUPPORT.md for more information.
 -->
 
 # Pull Request Title
@@ -15,15 +15,15 @@ Need help? See SUPPORT.md for more information.
 ## Changes Made
 
 <!-- 
-Include a summary of your changes here.
-Feel free to include relevant motivation and context.
+  Include a summary of your changes here.
+  Feel free to include relevant motivation and context.
 -->
 
 ## Changes to Dependencies
 
 <!-- 
-List any changes to dependencies here.
-Make sure to update package.json and package-lock.json accordingly.
+  List any changes to dependencies here.
+  Make sure to update package.json and package-lock.json accordingly.
 -->
 
 None

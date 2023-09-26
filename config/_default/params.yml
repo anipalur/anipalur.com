@@ -44,11 +44,14 @@ footer:
     [Home](/ "Visit the homepage.") &sdot; 
     [About](/about "Learn more about me.") &sdot; 
     [Source Code](https://github.com/anipalur/anipalur.com "Visit the homepage.") &sdot; 
-    [Sitemap](/sitemap.xml "View the sitemap of this blog.") &sdot; 
     [Disclaimer](/disclaimer "Learn more about the limitations of content on my blog.") &sdot; 
     [Privacy Policy](/privacy "Learn more about how your information is used on my blog.")
+    <br />
+    [RSS Feed](/index.xml "View the RSS feed for this blog.") &sdot; 
+    [Sitemap](/sitemap.xml "View the sitemap for this blog.")
 
 # Blog configuration
 favicon: favicon.svg
+rssFullContent: true
 opengraph:
   card: summary

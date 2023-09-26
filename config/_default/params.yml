@@ -49,5 +49,6 @@ footer:
     [Privacy Policy](/privacy "Learn more about how your information is used on my blog.")
 
 # Blog configuration
+favicon: favicon.svg
 opengraph:
   card: summary

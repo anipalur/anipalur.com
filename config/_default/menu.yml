@@ -12,15 +12,15 @@ social:
     weight: 2
     params:
       icon: brand-github
+  - identifier: telegram
+    name: Telegram
+    url: https://t.me/anipalur
+    weight: 3
+    params:
+      icon: brand-telegram
   - identifier: email
     name: Email
     url: mailto:ani@anipalur.com
-    weight: 3
-    params:
-      icon: mail
-  - identifier: rss
-    name: RSS Feed
-    url: /index.xml
     weight: 4
     params:
-      icon: rss
+      icon: mail

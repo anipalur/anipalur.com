@@ -13,5 +13,9 @@
   "code-block-style": { "style": "fenced" },
   "code-fence-style": { "style": "backtick" },
   "emphasis-style": { "style": "asterisk" },
-  "strong-style": { "style": "asterisk" }
+  "strong-style": { "style": "asterisk" },
+  "link-image-style": {
+    "collapsed": false,
+    "url_inline": false
+  }
 }

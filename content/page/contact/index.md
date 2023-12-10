@@ -16,6 +16,10 @@ links:
     description: View my Discord profile. My username is @anipalur.
     website: https://discordapp.com/users/689680683186126865
     image: images/brand-discord.svg
+  - title: Telegram
+    description: Message me on Telegram.
+    website: https://t.me/anipalur
+    image: images/brand-telegram.svg
 
 license: false
 comments: false

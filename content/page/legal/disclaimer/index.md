@@ -17,6 +17,8 @@ keywords:
   - Disclaimer
 ---
 
+This disclaimer outlines the limitations of content presented on my blog.
+
 ## Consent
 
 By accessing or using this blog ([anipalur.com](https://anipalur.com "Visit my blog.")), you consent to this disclaimer and agree to its terms.
@@ -52,6 +54,12 @@ Under no circumstances am I responsible for these sites or their content.
 
 Third-party websites may have different privacy policies and terms of use beyond my control.
 Please be sure to check the privacy policies and terms of use of these sites.
+
+## Changes to this Disclaimer
+
+This disclaimer may be updated from time to time.
+Please review this page periodically for any changes.
+Changes are effective immediately after they are posted on this page.
 
 ## Contact
 

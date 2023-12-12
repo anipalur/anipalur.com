@@ -11,14 +11,14 @@
       <figure class="site-avatar">
         <a href="{{ .Site.BaseURL | relLangURL }}" title="Visit the homepage.">
         {{ if not .local }}
-          <img src="{{ .src }}" width="300" height="300" class="site-logo" loading="lazy" alt="Anitej Palur">
+          <img src="{{ .src }}" width="300" height="300" class="site-logo" loading="lazy" alt="{{ .Site.Author.name }}">
         {{ else }}
           {{ $avatar := resources.Get (.src) }}
 
           {{ if $avatar }}
             {{ $avatarResized := $avatar.Resize "300x" }}
             <img src="{{ $avatarResized.RelPermalink }}" width="{{ $avatarResized.Width }}"
-              height="{{ $avatarResized.Height }}" class="site-logo" loading="lazy" alt="Anitej Palur">
+              height="{{ $avatarResized.Height }}" class="site-logo" loading="lazy" alt="{{ .Site.Author.name }}">
           {{ else }}
             {{ errorf "Failed loading avatar from %q" . }}
           {{ end }}
@@ -34,7 +34,7 @@
     <div class="site-meta">
       <h1 class="site-name">
         <a href="{{ .Site.BaseURL | relLangURL }}" title="Visit the homepage.">
-          {{ .Site.Title }}
+          {{ .Site.Author.name }}
         </a>
       </h1>
       <h2 class="site-description">{{ .Site.Params.sidebar.subtitle }}</h2>

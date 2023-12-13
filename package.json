@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Source code for my blog.",
   "scripts": {
-    "test": "hugo server --buildDrafts",
+    "test": "hugo server --buildFuture",
     "build": "hugo --gc --minify",
     "lint": "npx markdownlint --fix \"content/**/*.md\" \".github/*.md\" \"*.md\" && echo Successfully linted all Markdown files!",
     "is-linted": "npx markdownlint \"content/**/*.md\" \".github/*.md\" \"*.md\""

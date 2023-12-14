@@ -51,6 +51,9 @@ footer:
 
 # Blog configuration
 favicon: /favicon.svg
+imageProcessing:
+  cover:
+    enabled: false
 rssFullContent: true
 opengraph:
   card: summary

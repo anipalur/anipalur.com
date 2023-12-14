@@ -55,5 +55,13 @@ imageProcessing:
   cover:
     enabled: false
 rssFullContent: true
+
+defaultImage:
+  opengraph:
+    enabled: true
+    src: img/anipalur-og-image.png
+    local: true
+    alt: The logo of Anitej Palur's blog.
 opengraph:
-  card: summary
+  twitter:
+    card: summary

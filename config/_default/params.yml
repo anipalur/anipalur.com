@@ -50,7 +50,7 @@ footer:
     [Sitemap](/sitemap.xml "View the sitemap for this blog.")
 
 # Blog configuration
-favicon: favicon.svg
+favicon: /favicon.svg
 rssFullContent: true
 opengraph:
   card: summary

@@ -1,0 +1,37 @@
+{
+  "name": "anipalur.com",
+  "version": "1.0.0",
+  "description": "Source code for my personal website.",
+  "scripts": {
+    "test": "hugo server --buildFuture",
+    "build": "hugo --gc --minify",
+    "lint": "npx markdownlint --fix \"content/**/*.md\" \".github/*.md\" \"*.md\" && echo Successfully linted all Markdown files!",
+    "is-linted": "npx markdownlint \"content/**/*.md\" \".github/*.md\" \"*.md\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anipalur/anipalur.com.git"
+  },
+  "keywords": [
+    "hugo",
+    "website",
+    "personal-website",
+    "personal-site",
+    "static-site",
+    "hugo-site"
+  ],
+  "author": {
+    "name": "anipalur",
+    "email": "ani@anipalur.com",
+    "url": "https://github.com/anipalur"
+  },
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/anipalur/anipalur.com/issues"
+  },
+  "homepage": "https://github.com/anipalur/anipalur.com#readme",
+  "devDependencies": {
+    "markdownlint": "^0.32.1",
+    "markdownlint-cli": "^0.38.0"
+  }
+}

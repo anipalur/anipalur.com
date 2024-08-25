@@ -1,0 +1,11 @@
+---
+main:
+  - name: Home
+    weight: 1
+    url: /
+  - name: About
+    weight: 2
+    url: /about
+  - name: Contact
+    weight: 3
+    url: /contact

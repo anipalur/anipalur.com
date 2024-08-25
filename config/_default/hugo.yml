@@ -1,0 +1,33 @@
+---
+# Website information
+author:
+  name: Anitej Palur
+baseURL: https://anipalur.com/
+title: Anitej Palur
+defaultContentLanguage: en
+languageCode: en-GB
+timeZone: Asia/Kuala_Lumpur
+copyright: © 2023-2024 Anitej Palur
+
+# Website configuration
+theme: coder
+refLinksNotFoundURL: /404
+enableGitInfo: true
+enableEmoji: true
+enableRobotsTXT: true
+disableKinds:
+  - taxonomy
+  - term
+  - rss
+
+# Development configuration
+module:
+  mounts:
+  - source: assets
+    target: assets
+  - source: static
+    target: assets
+build:
+  noJSConfigInAssets: true
+newContentEditor: code
+watch: true

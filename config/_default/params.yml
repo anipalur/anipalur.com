@@ -1,0 +1,52 @@
+---
+# Website information
+author: Anitej Palur
+info: Second-year medical student and aspiring neurosurgeon
+description: Anitej Palur's personal website
+since: 2023
+keywords:
+  - personal
+  - website
+
+# Social information
+social:
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/anipalur
+    title: View my LinkedIn profile.
+    icon: fa-brands fa-linkedin fa-2x
+    weight: 1
+  - name: Google Scholar
+    url: https://scholar.google.com/citations?user=EZK0rKUAAAAJ
+    title: View my Google Scholar profile.
+    icon: fa-brands fa-google-scholar fa-2x
+    weight: 2
+  - name: ORCID
+    url: https://orcid.org/0009-0000-0181-7117
+    title: View my ORCID iD.
+    icon: fa-brands fa-orcid fa-2x
+    weight: 3
+  - name: Github
+    url: https://github.com/anipalur
+    title: View my GitHub profile.
+    icon: fa-brands fa-github fa-2x
+    weight: 4
+  - name: Telegram
+    url: https://t.me/anipalur
+    title: Message me on Telegram.
+    icon: fa-brands fa-telegram fa-2x
+    weight: 5
+  - name: Email
+    url: mailto:ani@anipalur.com
+    title: Send me an email.
+    icon: fa-solid fa-envelope fa-2x
+    weight: 6
+
+# Website configuration
+avatarUrl: /anitej-palur.webp
+faviconSVG: /favicon.svg
+images:
+  - /feature-image.webp
+commit: false
+enableTwemoji: true
+colorScheme: auto
+hideColorSchemeToggle: false

@@ -1,0 +1,16 @@
+<footer class="footer">
+  <section class="container">
+    ©
+    {{ if (and .Site.Params.since (lt .Site.Params.since now.Year)) }}{{ .Site.Params.since }}-{{ end }}{{ now.Year }}
+    {{ with .Site.Params.author }} {{ . }} {{ end }}
+    {{ if (and .Site.Params.license) }}
+      <br />
+      {{ i18n "licensed_under" }} {{ .Site.Params.license | safeHTML }}
+    {{ end }}
+    <br />
+    {{ i18n "powered_by" }} <a href="https://gohugo.io" title="Learn more about Hugo." target="_blank" rel="noopener">Hugo</a> and <a href="https://github.com/luizdepra/hugo-coder" title="Learn more about the Coder theme." target="_blank" rel="noopener">Coder</a>.
+    {{ if (and .Site.Params.commit .GitInfo) }}
+      [<a href="{{ .Site.Params.commit }}/{{ .GitInfo.Hash }}" target="_blank" rel="noopener">{{ .GitInfo.AbbreviatedHash }}</a>]
+    {{ end }}
+  </section>
+</footer>

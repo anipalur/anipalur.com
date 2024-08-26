@@ -1,0 +1,39 @@
+---
+page_not_found:
+  other: Page Not Found
+
+page_does_not_exist:
+  other: Sorry, this page does not exist.
+
+head_back:
+  other: <a href="{{ . }}" title="Go back to the homepage.">Back to Home</a>
+
+licensed_under:
+  other: Licensed under
+
+powered_by:
+  other: Powered by
+
+note:
+  other: Note
+
+tip:
+  other: Tip
+
+example:
+  other: Example
+
+question:
+  other: Question
+
+info:
+  other: Info
+
+warning:
+  other: Warning
+
+error:
+  other: Error
+
+link_to_heading:
+  other: Copy a link to this heading.

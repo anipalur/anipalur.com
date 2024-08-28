@@ -62,7 +62,7 @@ Likewise, if you have an idea for an enhancement to an existing feature, [reques
 > [!WARNING]  
 > **Do not report a vulnerability through an issue, pull request or anywhere else in public.**
 
-See [SECURITY.md](/SECURITY.md "View the SECURITY.md file.") for more about reporting vulnerabilities.
+See [SECURITY.md](/.github/SECURITY.md "View the SECURITY.md file.") for more about reporting vulnerabilities.
 
 [file-bug-report]: https://github.com/anipalur/anipalur.com/issues/new?assignees=anipalur&labels=bug&template=bug-report.yml "File a bug report."
 [request-new-feature]: https://github.com/anipalur/anipalur.com/issues/new?assignees=anipalur&labels=new-feature&template=feature-request.yml "Request a new feature."

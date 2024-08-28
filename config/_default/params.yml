@@ -42,10 +42,10 @@ social:
     weight: 6
 
 # Website configuration
-avatarUrl: /anitej-palur.webp
+avatarUrl: /anitej-palur.jpg
 faviconSVG: /favicon.svg
 images:
-  - /feature-image.webp
+  - /feature-image.jpg
 commit: false
 enableTwemoji: true
 colorScheme: auto

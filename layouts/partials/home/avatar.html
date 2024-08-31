@@ -2,9 +2,9 @@
 {{ if and (isset .Site.Params "avatarurl") (not (isset .Site.Params "gravatar")) }}
   {{ with .Site.Params.avatarURL }}
     {{ $avatar := resources.Get . }}
-    <div class="avatar"><img src="{{ $avatar.RelPermalink }}" width="{{ $avatar.Width }}" height="{{ $avatar.Height }}" alt="{{ $author }}"></div>
+    <div class="avatar"><img src="{{ $avatar.RelPermalink }}" width="{{ $avatar.Width }}" height="{{ $avatar.Height }}" alt="{{ $author }}" /></div>
   {{ end }}
 {{ end }}
 {{ with .Site.Params.gravatar }}
-  <div class="avatar"><img src="https://www.gravatar.com/avatar/{{md5 .}}?s=240&d=mp" alt="{{ $author }}"></div>
+  <div class="avatar"><img src="https://www.gravatar.com/avatar/{{md5 .}}?s=240&d=mp" alt="{{ $author }}" /></div>
 {{ end }}

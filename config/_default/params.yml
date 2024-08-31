@@ -25,21 +25,31 @@ social:
     title: View my ORCID iD.
     icon: fa-brands fa-orcid fa-2x
     weight: 3
+  - name: Web of Science
+    url: https://www.webofscience.com/wos/author/record/LEL-9693-2024
+    title: View my Web of Science profile.
+    icon: fa-solid fa-spinner fa-2x
+    weight: 4
+  - name: ResearchGate
+    url: https://www.researchgate.net/profile/Anitej-Palur
+    title: View my ResearchGate profile.
+    icon: fa-brands fa-researchgate fa-2x
+    weight: 5
   - name: Github
     url: https://github.com/anipalur
     title: View my GitHub profile.
     icon: fa-brands fa-github fa-2x
-    weight: 4
+    weight: 6
   - name: Telegram
     url: https://t.me/anipalur
     title: Message me on Telegram.
     icon: fa-brands fa-telegram fa-2x
-    weight: 5
+    weight: 7
   - name: Email
     url: mailto:ani@anipalur.com
     title: Send me an email.
     icon: fa-solid fa-envelope fa-2x
-    weight: 6
+    weight: 8
 
 # Website configuration
 avatarUrl: /anitej-palur.jpg

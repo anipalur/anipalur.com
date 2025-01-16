@@ -121,8 +121,8 @@ See [Hugo's documentation on hosting and deployment](https://gohugo.io/hosting-a
 
 <img src="res/gpl-v3-logo.png" width="128px" alt="The GPLv3 logo." />
 
-**Copyright &copy; 2018-2024 [Luiz F. A. de Prá][luizdepra-link]**  
-**Copyright &copy; 2024 Anitej Palur**  
+**Copyright &copy; 2018-2025 [Luiz F. A. de Prá][luizdepra-link]**  
+**Copyright &copy; 2025 Anitej Palur**  
 The source code for this website is licensed under a [GNU GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.html "Learn more about the GNU GPLv3 License.").
 
 See [LICENSE](/LICENSE "View the LICENSE file.") for more information.

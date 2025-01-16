@@ -30,7 +30,7 @@ I seek to advance this field as a neurosurgeon and guide it responsibly and ethi
 
 <!--sse-->
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anipalur "Visit my LinkedIn profile.")
-or email [ani@anipalur.com](mailto:ani@anipalur.com "Send me an email.") to ask me more about these fields.<!--/sse-->
+or email [ani@anipalur.com](mailto:ani@anipalur.com "Send me an email.") to ask me more about these fields!<!--/sse-->
 
 ## Acknowledgements
 

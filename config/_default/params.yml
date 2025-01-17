@@ -35,21 +35,26 @@ social:
     title: View my ResearchGate profile.
     icon: fa-brands fa-researchgate fa-2x
     weight: 5
+  - name: YouTube
+    url: https://www.youtube.com/@anitejpalur
+    title: View my YouTube channel.
+    icon: fa-brands fa-youtube fa-2x
+    weight: 6
   - name: Github
     url: https://github.com/anipalur
     title: View my GitHub profile.
     icon: fa-brands fa-github fa-2x
-    weight: 6
+    weight: 7
   - name: Telegram
     url: https://t.me/anipalur
     title: Message me on Telegram.
     icon: fa-brands fa-telegram fa-2x
-    weight: 7
+    weight: 8
   - name: Email
     url: mailto:ani@anipalur.com
     title: Send me an email.
     icon: fa-solid fa-envelope fa-2x
-    weight: 8
+    weight: 9
 
 # Website configuration
 avatarUrl: /anitej-palur.jpg

@@ -29,7 +29,7 @@ Recent advancements in BMIs and implant technology are making the prospect of me
 I seek to advance this field as a neurosurgeon and guide it responsibly and ethically.
 
 <!--sse-->
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anipalur "Visit my LinkedIn profile.")
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anipalur "View my LinkedIn profile.")
 or email [ani@anipalur.com](mailto:ani@anipalur.com "Send me an email.") to ask me more about these fields!<!--/sse-->
 
 ## Acknowledgements

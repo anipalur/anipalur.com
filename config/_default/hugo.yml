@@ -18,6 +18,9 @@ taxonomies:
   tag: tags
   author: authors
 refLinksNotFoundURL: /404
+services:
+  rss:
+    limit: -1
 enableGitInfo: true
 enableEmoji: true
 enableRobotsTXT: true

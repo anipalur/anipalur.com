@@ -1,4 +1,8 @@
 ---
+reading_time:
+  one: 1-minute read
+  other: "{{ .Count }}-minute read"
+
 page_not_found:
   other: Page Not Found
 

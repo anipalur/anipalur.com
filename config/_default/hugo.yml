@@ -12,6 +12,11 @@ copyright: © 2023-2025 Anitej Palur
 
 # Website configuration
 theme: coder
+taxonomies:
+  category: categories
+  series: series
+  tag: tags
+  author: authors
 refLinksNotFoundURL: /404
 enableGitInfo: true
 enableEmoji: true

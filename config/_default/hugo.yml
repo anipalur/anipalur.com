@@ -21,6 +21,7 @@ refLinksNotFoundURL: /404
 services:
   rss:
     limit: -1
+capitalizeListTitles: false
 enableGitInfo: true
 enableEmoji: true
 enableRobotsTXT: true

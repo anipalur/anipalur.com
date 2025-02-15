@@ -2,6 +2,7 @@
 # Website information
 author:
   name: Anitej Palur
+  email: ani@anipalur.com
 baseURL: https://anipalur.com/
 title: Anitej Palur
 defaultContentLanguage: en
@@ -15,18 +16,14 @@ refLinksNotFoundURL: /404
 enableGitInfo: true
 enableEmoji: true
 enableRobotsTXT: true
-disableKinds:
-  - taxonomy
-  - term
-  - rss
 
 # Development configuration
 module:
   mounts:
-  - source: assets
-    target: assets
-  - source: static
-    target: assets
+    - source: assets
+      target: assets
+    - source: static
+      target: assets
 build:
   noJSConfigInAssets: true
 newContentEditor: code

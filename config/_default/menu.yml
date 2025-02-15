@@ -3,9 +3,12 @@ main:
   - name: Home
     weight: 1
     url: /
-  - name: About
+  - name: Blog
     weight: 2
+    url: /posts
+  - name: About
+    weight: 3
     url: /about
   - name: Contact
-    weight: 3
+    weight: 4
     url: /contact

@@ -31,12 +31,10 @@ keywords:
     </p>
   </div>
   <div class="responsive-image">
-    <figure>
-      <img src="/anitej-palur.jpg" width="85%" alt="Anitej Palur" />
-      <figcaption>Anitej Palur</figcaption>
-    </figure>
+    <img src="/anitej-palur.jpg" width="85%" alt="Anitej Palur" />
   </div>
 </div>
+
 Furthermore, I believe the brain is the final frontier of medicine.
 Recent advancements in BMIs and implant technology are making the prospect of merging man and machine at the neural level increasingly viable.
 I seek to advance this field as a neurosurgeon and guide it responsibly and ethically.

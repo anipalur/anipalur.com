@@ -52,6 +52,56 @@
     }
   }
 
+  .text-and-image {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .responsive-text {
+    flex: 1;
+    max-width: 65%;
+  }
+
+  .responsive-image {
+    flex-shrink: 0;
+    max-width: 35%;
+    margin-left: 1em;
+  }
+  
+  .responsive-image img {
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+
+  @media (max-width: 768px) {
+    .text-and-image {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .responsive-text {
+      max-width: 100%;
+    }
+
+    .responsive-image {
+      width: 50%;
+      margin-top: 0.25em;
+      margin-bottom: 0.75em;
+      margin-left: 0em;
+      margin-right: 0em;
+      display: block;
+      margin: auto;
+    }
+   
+    .responsive-image img {
+      width: 100%;
+      height: auto;
+    }
+  }
+
   .post {
     .post-title {
       margin-bottom: 1.25em;

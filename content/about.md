@@ -14,23 +14,36 @@ keywords:
 
 ## About Me
 
-I am<!--sse--> a second-year medical student at the
-[National University of Malaysia (UKM)](https://wikipedia.org/wiki/National_University_of_Malaysia "Learn more about the National University of Malaysia (UKM).")
-and<!--/sse--> an aspiring neurosurgeon. Ever since I learnt about
-[Brain-Machine Interfaces (BMIs)](https://wikipedia.org/wiki/Brain%E2%80%93computer_interface "Learn more about Brain-Machine Interfaces (BMIs).")
-and [neurotechnology](https://wikipedia.org/wiki/Neurotechnology "Learn more about neurotechnology."),
-I have sought to become a neurosurgeon subspecialised in functional and augmentative neurosurgery.
-
-More innovations are becoming available for medical use as the field of neurotechnology experiences significant growth.
-I aim to treat patients affected by neurological disorders through such technology.
-
+<!--sse-->
+<div class="text-and-image">
+  <div class="responsive-text">
+    <p>
+      I am a second-year medical student at the
+      <a href="https://wikipedia.org/wiki/National_University_of_Malaysia" title="Learn more about the National University of Malaysia (UKM)." target="_blank" rel="noopener" class="external-link">National University of Malaysia (UKM)</a>
+      and an aspiring neurosurgeon. Ever since I learnt about
+      <a href="https://wikipedia.org/wiki/Brain%E2%80%93computer_interface" title="Learn more about Brain-Machine Interfaces (BMIs)." target="_blank" rel="noopener" class="external-link">Brain-Machine Interfaces (BMIs)</a>
+      and <a href="https://wikipedia.org/wiki/Neurotechnology" title="Learn more about neurotechnology." target="_blank" rel="noopener" class="external-link">neurotechnology</a>,
+      I have sought to become a neurosurgeon subspecialised in functional and augmentative neurosurgery.
+    </p>
+    <p>
+      More innovations are becoming available for medical use as the field of neurotechnology experiences significant growth.
+      I aim to treat patients affected by neurological disorders through such technology.
+    </p>
+  </div>
+  <div class="responsive-image">
+    <figure>
+      <img src="/anitej-palur.jpg" width="85%" alt="Anitej Palur" />
+      <figcaption>Anitej Palur</figcaption>
+    </figure>
+  </div>
+</div>
 Furthermore, I believe the brain is the final frontier of medicine.
 Recent advancements in BMIs and implant technology are making the prospect of merging man and machine at the neural level increasingly viable.
 I seek to advance this field as a neurosurgeon and guide it responsibly and ethically.
 
-<!--sse-->
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/anipalur "View my LinkedIn profile.")
-or email [ani@anipalur.com](mailto:ani@anipalur.com "Send me an email.") to ask me more about these fields!<!--/sse-->
+or email [ani@anipalur.com](mailto:ani@anipalur.com "Send me an email.") to ask me more about these fields!
+<!--/sse-->
 
 ## Acknowledgements
 

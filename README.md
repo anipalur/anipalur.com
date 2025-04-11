@@ -131,10 +131,10 @@ See [LICENSE](/LICENSE "View the LICENSE file.") for more information.
 [coder-link]: https://github.com/luizdepra/hugo-coder "Learn more about the Coder theme."
 [luizdepra-link]: https://luizdepra.dev "Learn more about Luiz F. A. de Prá."
 
-[hugo-badge]: https://img.shields.io/badge/dynamic/toml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fluizdepra%2Fhugo-coder%2Fmaster%2Ftheme.toml&query=%24.min_version&prefix=v&&logo=hugo&logoColor=FF4088&label=Hugo&color=FF4088
+[hugo-badge]: https://img.shields.io/badge/dynamic/toml?style=flat-square&url=https%3A%2F%2Fraw.githubusercontent.com%2Fluizdepra%2Fhugo-coder%2Fmaster%2Ftheme.toml&query=%24.min_version&prefix=v&&logo=hugo&logoColor=FF4088&label=Hugo&color=FF4088
 [hugo-link]: https://gohugo.io "Learn more about Hugo."
 
-[codefactor-badge]: https://img.shields.io/codefactor/grade/github/anipalur/anipalur.com?&logo=codefactor&logoColor=F44A6A&label=Code%20Quality
+[codefactor-badge]: https://img.shields.io/codefactor/grade/github/anipalur/anipalur.com?style=flat-square&logo=codefactor&logoColor=F44A6A&label=Code%20Quality
 [codefactor-link]: https://www.codefactor.io/repository/github/anipalur/anipalur.com "View this project's code quality grade."
 
-[status-badge]: https://img.shields.io/website?up_message=Online&up_color=4CC71E&down_message=Offline&down_color=CF222E&url=https%3A%2F%2Fanipalur.com&&label=Status
+[status-badge]: https://img.shields.io/website?style=flat-square&up_message=Online&up_color=4CC71E&down_message=Offline&down_color=CF222E&url=https%3A%2F%2Fanipalur.com&&label=Status

@@ -29,6 +29,6 @@ Thank you to all lecturers and faculty members for your support and guidance! I 
   <img src="images/anitej-microbiology-book-prize.jpg" width="50%" alt="Anitej receiving the Prof. K. J. Lindqvist Microbiology Book Prize." />
   <figcaption>
     Photo Credit:
-    <a href="https://www.instagram.com/persiapukm/p/DINyACSSVaA" width="50%" alt="Learn more about the Student Union of the Faculty of Medicine, UKM." target="_blank" rel="noopener" class="external-link">Student Union of the Faculty of Medicine, UKM</a></figcaption>
+    <a href="https://www.instagram.com/persiapukm/p/DINyACSSVaA" width="50%" title="Learn more about the Student Union of the Faculty of Medicine, UKM." target="_blank" rel="noopener" class="external-link">Student Union of the Faculty of Medicine, UKM</a></figcaption>
   </figure>
 <!--/sse-->

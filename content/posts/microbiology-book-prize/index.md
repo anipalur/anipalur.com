@@ -4,6 +4,8 @@ description: Receiving the Prof. K. J. Lindqvist Microbiology Book Prize.
 summary: Receiving the Prof. K. J. Lindqvist Microbiology Book Prize.
 date: 2025-04-11
 
+linkedin: https://www.linkedin.com/posts/anipalur_ukm-medicalschool-medicine-activity-7316429845893107712-ehbc
+
 tags:
   - ukm
   - medical-school

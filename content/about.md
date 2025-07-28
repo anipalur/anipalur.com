@@ -18,7 +18,7 @@ keywords:
 <div class="text-and-image">
   <div class="responsive-text">
     <p>
-      I am a second-year medical student at the
+      I am a third-year medical student at the
       <a href="https://wikipedia.org/wiki/National_University_of_Malaysia" title="Learn more about the National University of Malaysia (UKM)." target="_blank" rel="noopener" class="external-link">National University of Malaysia (UKM)</a>
       and an aspiring neurosurgeon. Ever since I learnt about
       <a href="https://wikipedia.org/wiki/Brain%E2%80%93computer_interface" title="Learn more about Brain-Machine Interfaces (BMIs)." target="_blank" rel="noopener" class="external-link">Brain-Machine Interfaces (BMIs)</a>

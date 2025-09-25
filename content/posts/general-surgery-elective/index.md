@@ -101,4 +101,10 @@ I look forward to applying what I have learnt as I continue my journey to becomi
   <figcaption>Brought a cake for my friends on the last day of my elective. It was quite tasty!</figcaption>
   <figcaption>Photo credit goes to my friend, Azimah.</figcaption>
 </figure>
+<br />
+<figure>
+  <img src="images/anitej-and-friends.jpeg" width="50%" alt="Anitej and his friends." />
+  <figcaption>A fun picture I took with some of my friends, Chen and Connie.</figcaption>
+  <figcaption>Photo credit goes to my friend, Chen.</figcaption>
+</figure>
 <!--/sse-->

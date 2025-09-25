@@ -66,6 +66,7 @@ I look forward to applying what I have learnt as I continue my journey to becomi
 <figure>
   <img src="images/anitej-surgery-ward.jpg" width="50%" alt="Anitej standing in the General Surgery ward." />
   <figcaption>Anitej standing in the General Surgery ward. Look at all those flowers!</figcaption>
+  <figcaption>Photo credit goes to my friend, Connie.</figcaption>
 </figure>
 <br />
 <figure>
@@ -76,6 +77,7 @@ I look forward to applying what I have learnt as I continue my journey to becomi
 <figure>
   <img src="images/anitej-clinic.jpg" width="50%" alt="Anitej standing outside the General Surgery clinic." />
   <figcaption>Anitej standing outside the General Surgery clinic.</figcaption>
+  <figcaption>Photo credit goes to my friend, Connie.</figcaption>
 </figure>
 <br />
 <figure>
@@ -91,10 +93,12 @@ I look forward to applying what I have learnt as I continue my journey to becomi
 <figure>
   <img src="images/anitej-or.jpg" width="50%" alt="Anitej waiting outside the OR." />
   <figcaption>Anitej waiting outside the OR.</figcaption>
+  <figcaption>Photo credit goes to my friend, Connie.</figcaption>
 </figure>
 <br />
 <figure>
   <img src="images/anitej-cake.jpg" width="50%" alt="Anitej standing with his cake." />
   <figcaption>Brought a cake for my friends on the last day of my elective. It was quite tasty!</figcaption>
+  <figcaption>Photo credit goes to my friend, Azimah.</figcaption>
 </figure>
 <!--/sse-->
